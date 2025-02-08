@@ -1,2 +1,3 @@
 # Vikas
-This is my first gGt repository 
+This is my first Git repository 
+Author - kethavath Vikas 
